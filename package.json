@@ -1,0 +1,30 @@
+{
+  "name": "nodejsbyf8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gavvar/nodejs.blog.git"
+  },
+  "keywords": [
+    "blog",
+    "nodejs"
+  ],
+  "author": "duc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gavvar/nodejs.blog/issues"
+  },
+  "homepage": "https://github.com/gavvar/nodejs.blog#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
